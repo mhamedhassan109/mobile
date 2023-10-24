@@ -364,15 +364,15 @@ position: relative;
     }
 }
 .view-only .item-one .images.three {
-    background-image: url("../images/ir.jpg");
+    background-image: url("../images/ir3.webp");
     animation: move-three infinite linear 6s;
 }
 @keyframes move-three {
     0% {
-        background-image: url("../images/ir.jpg");
+        background-image: url("../images/ir3.webp");
     }
     50% {
-        background-image: url("../images/ir4.webp");
+        background-image: url("../images/ir3.webp");
     }
     100% {
         background-image: url("../images/ir.jpg");
